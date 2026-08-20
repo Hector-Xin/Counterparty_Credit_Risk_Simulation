@@ -12,7 +12,7 @@ The project covers trade netting, simplified SA-CCR, correlated market-factor si
 > **Valuation date:** June 15, 2025  
 > **Units:** U.S. dollars
 
-[Read the full project report](./CCR_Project_Report.pdf) | [View the Python model](./CCR-Project.py) | [View the synthetic portfolio](./CCR_Book_Simulation_v3.xlsx)
+[Read the full project report](https://github.com/Hector-Xin/Counterparty_Credit_Risk_Simulation/blob/main/Counterparty_Credit_Risk_Simulation/CCR_Project_Report.pdf) | [View the Python model](https://github.com/Hector-Xin/Counterparty_Credit_Risk_Simulation/blob/main/Counterparty_Credit_Risk_Simulation/CCR-Project.py) | [View the synthetic portfolio](https://github.com/Hector-Xin/Counterparty_Credit_Risk_Simulation/blob/main/Counterparty_Credit_Risk_Simulation/CCR_Book_Simulation_v3.xlsx)
 
 ---
 
